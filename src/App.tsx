@@ -1,7 +1,12 @@
 import React from 'react';
+import GlobalStyle from './styles/global';
+import Calculadora from './pages/Calculadora';
 
-function App() {
-  return <h1>Hello World</h1>;
-}
+const App: React.FC = () => (
+  <>
+    <Calculadora />
+    <GlobalStyle />
+  </>
+);
 
 export default App;
