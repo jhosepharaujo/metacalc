@@ -1,9 +1,4 @@
-## Projeto base reactjs
+## MetaCalc
 
-Projeto base para desenvolvimento de apps com reactjs.
-
-### Features
- [x] Eslint
- [x] Prettier
- [x] Typescript
+Calculadora de pontos do INSS com base nos dias abonados e na meta mensal.
 
